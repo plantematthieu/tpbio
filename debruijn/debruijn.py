@@ -25,13 +25,13 @@ from random import randint
 import statistics
 import matplotlib.pyplot as plt
 
-__author__ = "Your Name"
+__author__ = "Matthieu Planté"
 __copyright__ = "Universite Paris Diderot"
-__credits__ = ["Your Name"]
+__credits__ = ["Matthieu Planté"]
 __license__ = "GPL"
 __version__ = "1.0.0"
-__maintainer__ = "Your Name"
-__email__ = "your@email.fr"
+__maintainer__ = "Matthieu Planté"
+__email__ = "plantematt@eisti.eu"
 __status__ = "Developpement"
 
 def isfile(path):
